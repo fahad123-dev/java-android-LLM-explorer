@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string name="app_name">LLM Explorer</string>
+<string name="welcome_message">Welcome</string>
+
+<!-- New strings -->
+<string name="welcome_title">Explore Large Language Models</string>
+<string name="welcome_subtitle">Learn about the most advanced AI models</string>
+<string name="tap_to_continue">Tap anywhere to continue</string>
+<string name="llm_list_title">Popular LLMs</string>
+
+<!-- LLM Names -->
+<string name="chatgpt">ChatGPT</string>
+<string name="bard">Google Bard</string>
+    <string name="deepseek">DeepSeek</string>
+<string name="llama">LLaMA</string>
+    <string name="qwen">Qwen(Alibaba)</string>
+<string name="bangla_llm">BanglaLLM</string>
+
+<!-- LLM Descriptions -->
+<string name="chatgpt_desc">ChatGPT is an AI chatbot developed by OpenAI, based on the GPT architecture. It\'s known for its conversational abilities and wide range of knowledge.</string>
+<string name="bard_desc">Google Bard is an experimental conversational AI service powered by LaMDA. It draws on information from the web to provide fresh, high-quality responses.</string>
+    <string name="deepseek_desc">DeepSeek is a powerful Chinese LLM developed by DeepSeek, featuring advanced capabilities in coding, mathematics, and general knowledge. It supports long context understanding up to 128K tokens.</string>
+<string name="llama_desc">LLaMA (Large Language Model Meta AI) is a collection of foundational language models released by Meta, ranging from 7B to 65B parameters.</string>
+    <string name="qwen_desc">Qwen is Alibabas large language model series, including Qwen-7B and Qwen-14B. It performs well on Chinese tasks and supports long context understanding.</string>
+
+
+    <string name="bangla_llm_desc">BanglaLLM is the first large-scale language model specifically designed for Bangla language, developed by researchers in Bangladesh.</string>
+
+<string name="rating_prompt">Rate this LLM:</string>
+<string name="back_button">Back</string>
+</resources>

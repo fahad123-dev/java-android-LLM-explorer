@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">LLM 浏览器</string>
+<string name="welcome_message">欢迎使用</string>
+<!-- New strings -->
+<string name="welcome_title">探索大型语言模型</string>
+<string name="welcome_subtitle">了解最先进的人工智能模型</string>
+<string name="tap_to_continue">点击任意处继续</string>
+<string name="llm_list_title">热门大语言模型</string>
+<!-- LLM Names -->
+<string name="chatgpt">ChatGPT</string>
+<string name="bard">谷歌Bard</string>
+    <string name="deepseek">深度求索</string>
+<string name="llama">LLaMA</string>
+    <string name="qwen">通义千问(阿里巴巴)</string>
+<string name="bangla_llm">孟加拉LLM</string>
+<!-- LLM Descriptions -->
+<string name="chatgpt_desc">ChatGPT是由OpenAI开发的AI聊天机器人，基于GPT架构。以其对话能力和广泛的知识而闻名。</string>
+<string name="bard_desc">Google Bard是由LaMDA驱动的实验性对话AI服务。它利用网络信息提供新鲜、高质量的回复。</string>
+    <string name="deepseek_desc">深度求索是由深度求索公司开发的功能强大的中文大模型，在编程、数学和通用知识方面具有先进能力，支持长达128K tokens的上下文理解。</string>
+    <string name="llama_desc">LLaMA（大型语言模型Meta AI）是Meta发布的一系列基础语言模型，参数从70亿到650亿不等。</string>
+    <string name="qwen_desc">通义千问是阿里巴巴的大语言模型系列，包括Qwen-7B和Qwen-14B。它在中文任务上表现优异，并支持长上下文理解。</string>
+<string name="bangla_llm_desc">BanglaLLM是第一个专门为孟加拉语设计的大规模语言模型，由孟加拉国的研究人员开发。</string>
+
+<string name="rating_prompt">评价这个模型:</string>
+<string name="back_button">返回</string>
+</resources>
